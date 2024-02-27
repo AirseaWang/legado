@@ -3,7 +3,7 @@ package io.legado.app.model.webBook
 import android.text.TextUtils
 import com.script.SimpleBindings
 import com.script.rhino.RhinoScriptEngine
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.data.entities.Book
 import io.legado.app.data.entities.BookChapter
 import io.legado.app.data.entities.BookSource

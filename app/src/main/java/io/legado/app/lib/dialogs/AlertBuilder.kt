@@ -10,7 +10,7 @@ import android.view.KeyEvent
 import android.view.View
 import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes
-import io.legado.app.R
+import io.legado.app2.R
 
 @SuppressLint("SupportAnnotationUsage")
 interface AlertBuilder<out D : DialogInterface> {

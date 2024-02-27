@@ -24,13 +24,13 @@ import androidx.activity.viewModels
 import androidx.core.view.size
 import androidx.lifecycle.lifecycleScope
 import com.script.rhino.RhinoScriptEngine
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.VMBaseActivity
 import io.legado.app.constant.AppConst
 import io.legado.app.constant.AppConst.imagePathKey
 import io.legado.app.constant.AppLog
 import io.legado.app.data.entities.RssSource
-import io.legado.app.databinding.ActivityRssReadBinding
+import io.legado.app2.databinding.ActivityRssReadBinding
 import io.legado.app.help.config.AppConfig
 import io.legado.app.lib.dialogs.SelectItem
 import io.legado.app.lib.dialogs.selector

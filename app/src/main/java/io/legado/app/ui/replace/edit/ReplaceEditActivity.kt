@@ -8,10 +8,10 @@ import android.view.MenuItem
 import android.widget.EditText
 import androidx.activity.viewModels
 import androidx.lifecycle.lifecycleScope
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.VMBaseActivity
 import io.legado.app.data.entities.ReplaceRule
-import io.legado.app.databinding.ActivityReplaceEditBinding
+import io.legado.app2.databinding.ActivityReplaceEditBinding
 import io.legado.app.lib.dialogs.SelectItem
 import io.legado.app.ui.widget.dialog.TextDialog
 import io.legado.app.ui.widget.keyboard.KeyboardToolPop

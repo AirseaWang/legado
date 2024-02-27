@@ -15,7 +15,7 @@ import androidx.fragment.app.activityViewModels
 import androidx.preference.EditTextPreference
 import androidx.preference.ListPreference
 import androidx.preference.Preference
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.constant.AppLog
 import io.legado.app.constant.PreferKey
 import io.legado.app.exception.NoStackTraceException

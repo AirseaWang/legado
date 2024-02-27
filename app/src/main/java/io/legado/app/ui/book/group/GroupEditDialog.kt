@@ -4,10 +4,10 @@ import android.os.Bundle
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.viewModels
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.BaseDialogFragment
 import io.legado.app.data.entities.BookGroup
-import io.legado.app.databinding.DialogBookGroupEditBinding
+import io.legado.app2.databinding.DialogBookGroupEditBinding
 import io.legado.app.lib.dialogs.alert
 import io.legado.app.lib.theme.primaryColor
 import io.legado.app.utils.*

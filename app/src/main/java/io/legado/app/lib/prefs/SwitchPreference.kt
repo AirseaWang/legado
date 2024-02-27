@@ -5,7 +5,7 @@ import android.util.AttributeSet
 import androidx.appcompat.widget.SwitchCompat
 import androidx.preference.PreferenceViewHolder
 import androidx.preference.SwitchPreferenceCompat
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.lib.theme.accentColor
 import io.legado.app.utils.applyTint
 

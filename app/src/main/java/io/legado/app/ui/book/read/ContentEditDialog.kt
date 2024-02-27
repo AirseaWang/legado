@@ -8,13 +8,13 @@ import android.view.ViewGroup
 import androidx.fragment.app.viewModels
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.lifecycleScope
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.BaseDialogFragment
 import io.legado.app.base.BaseViewModel
 import io.legado.app.data.appDb
 import io.legado.app.data.entities.BookChapter
-import io.legado.app.databinding.DialogContentEditBinding
-import io.legado.app.databinding.DialogEditTextBinding
+import io.legado.app2.databinding.DialogContentEditBinding
+import io.legado.app2.databinding.DialogEditTextBinding
 import io.legado.app.help.book.BookHelp
 import io.legado.app.help.book.ContentProcessor
 import io.legado.app.help.book.isLocal

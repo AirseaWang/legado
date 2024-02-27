@@ -2,11 +2,11 @@ package io.legado.app.ui.book.changesource
 
 import android.content.Context
 import android.view.ViewGroup
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.adapter.ItemViewHolder
 import io.legado.app.base.adapter.RecyclerAdapter
 import io.legado.app.data.entities.BookChapter
-import io.legado.app.databinding.ItemChapterListBinding
+import io.legado.app2.databinding.ItemChapterListBinding
 import io.legado.app.lib.theme.ThemeUtils
 import io.legado.app.lib.theme.accentColor
 import io.legado.app.utils.getCompatColor

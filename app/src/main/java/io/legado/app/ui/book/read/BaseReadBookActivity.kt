@@ -13,13 +13,13 @@ import android.view.WindowManager
 import android.widget.FrameLayout
 import androidx.activity.viewModels
 import androidx.core.view.isVisible
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.VMBaseActivity
 import io.legado.app.constant.AppConst.charsets
 import io.legado.app.constant.PreferKey
-import io.legado.app.databinding.ActivityBookReadBinding
-import io.legado.app.databinding.DialogDownloadChoiceBinding
-import io.legado.app.databinding.DialogEditTextBinding
+import io.legado.app2.databinding.ActivityBookReadBinding
+import io.legado.app2.databinding.DialogDownloadChoiceBinding
+import io.legado.app2.databinding.DialogEditTextBinding
 import io.legado.app.help.config.AppConfig
 import io.legado.app.help.config.LocalConfig
 import io.legado.app.help.config.ReadBookConfig

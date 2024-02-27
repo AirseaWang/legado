@@ -8,9 +8,9 @@ import android.view.View
 import android.view.ViewGroup
 import android.view.WindowManager
 import android.widget.SeekBar
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.BaseDialogFragment
-import io.legado.app.databinding.DialogAutoReadBinding
+import io.legado.app2.databinding.DialogAutoReadBinding
 import io.legado.app.help.config.ReadBookConfig
 import io.legado.app.lib.theme.bottomBackground
 import io.legado.app.lib.theme.getPrimaryTextColor

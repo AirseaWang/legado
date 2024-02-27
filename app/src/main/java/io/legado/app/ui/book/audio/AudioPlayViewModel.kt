@@ -2,7 +2,7 @@ package io.legado.app.ui.book.audio
 
 import android.app.Application
 import android.content.Intent
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.BaseViewModel
 import io.legado.app.constant.BookType
 import io.legado.app.constant.EventBus

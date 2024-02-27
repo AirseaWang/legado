@@ -11,7 +11,7 @@ import androidx.lifecycle.flowWithLifecycle
 import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.google.android.material.textfield.TextInputLayout
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.VMBaseActivity
 import io.legado.app.constant.AppConst.charsets
 import io.legado.app.constant.AppLog
@@ -21,9 +21,9 @@ import io.legado.app.data.appDb
 import io.legado.app.data.entities.Book
 import io.legado.app.data.entities.BookChapter
 import io.legado.app.data.entities.BookGroup
-import io.legado.app.databinding.ActivityCacheBookBinding
-import io.legado.app.databinding.DialogEditTextBinding
-import io.legado.app.databinding.DialogSelectSectionExportBinding
+import io.legado.app2.databinding.ActivityCacheBookBinding
+import io.legado.app2.databinding.DialogEditTextBinding
+import io.legado.app2.databinding.DialogSelectSectionExportBinding
 import io.legado.app.help.book.getExportFileName
 import io.legado.app.help.book.isAudio
 import io.legado.app.help.book.tryParesExportFileName

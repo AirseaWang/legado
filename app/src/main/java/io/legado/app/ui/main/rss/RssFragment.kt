@@ -10,14 +10,14 @@ import androidx.fragment.app.viewModels
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.flowWithLifecycle
 import androidx.lifecycle.lifecycleScope
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.VMBaseFragment
 import io.legado.app.constant.AppLog
 import io.legado.app.constant.AppPattern
 import io.legado.app.data.appDb
 import io.legado.app.data.entities.RssSource
-import io.legado.app.databinding.FragmentRssBinding
-import io.legado.app.databinding.ItemRssBinding
+import io.legado.app2.databinding.FragmentRssBinding
+import io.legado.app2.databinding.ItemRssBinding
 import io.legado.app.lib.dialogs.alert
 import io.legado.app.lib.theme.primaryColor
 import io.legado.app.lib.theme.primaryTextColor

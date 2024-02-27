@@ -3,7 +3,7 @@ package io.legado.app.ui.widget.number
 import android.content.Context
 import android.widget.NumberPicker
 import androidx.appcompat.app.AlertDialog
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.utils.applyTint
 import io.legado.app.utils.hideSoftInput
 

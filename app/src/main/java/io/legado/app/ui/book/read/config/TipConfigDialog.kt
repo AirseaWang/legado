@@ -4,10 +4,10 @@ import android.os.Bundle
 import android.view.View
 import android.view.ViewGroup
 import com.jaredrummler.android.colorpicker.ColorPickerDialog
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.BaseDialogFragment
 import io.legado.app.constant.EventBus
-import io.legado.app.databinding.DialogTipConfigBinding
+import io.legado.app2.databinding.DialogTipConfigBinding
 import io.legado.app.help.config.ReadBookConfig
 import io.legado.app.help.config.ReadTipConfig
 import io.legado.app.lib.dialogs.selector

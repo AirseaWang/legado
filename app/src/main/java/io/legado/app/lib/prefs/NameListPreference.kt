@@ -5,7 +5,7 @@ import android.util.AttributeSet
 import android.widget.TextView
 import androidx.preference.ListPreference
 import androidx.preference.PreferenceViewHolder
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.lib.theme.bottomBackground
 import io.legado.app.lib.theme.getPrimaryTextColor
 import io.legado.app.utils.ColorUtils

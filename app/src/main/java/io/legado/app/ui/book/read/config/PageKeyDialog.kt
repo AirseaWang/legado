@@ -5,7 +5,7 @@ import android.content.Context
 import android.view.KeyEvent
 import android.view.ViewGroup
 import io.legado.app.constant.PreferKey
-import io.legado.app.databinding.DialogPageKeyBinding
+import io.legado.app2.databinding.DialogPageKeyBinding
 import io.legado.app.lib.theme.backgroundColor
 import io.legado.app.utils.getPrefString
 import io.legado.app.utils.hideSoftInput

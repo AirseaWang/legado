@@ -6,7 +6,7 @@ import android.net.Uri
 import android.os.Bundle
 import android.view.View
 import androidx.preference.Preference
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.constant.PreferKey
 import io.legado.app.lib.dialogs.selector
 import io.legado.app.lib.prefs.SwitchPreference

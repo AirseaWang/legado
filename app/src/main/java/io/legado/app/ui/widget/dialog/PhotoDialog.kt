@@ -4,9 +4,9 @@ import android.annotation.SuppressLint
 import android.os.Bundle
 import android.view.View
 import com.bumptech.glide.request.RequestOptions
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.BaseDialogFragment
-import io.legado.app.databinding.DialogPhotoViewBinding
+import io.legado.app2.databinding.DialogPhotoViewBinding
 import io.legado.app.help.book.BookHelp
 import io.legado.app.help.glide.ImageLoader
 import io.legado.app.help.glide.OkHttpModelLoader

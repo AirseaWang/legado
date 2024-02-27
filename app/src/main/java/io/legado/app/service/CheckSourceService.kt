@@ -4,7 +4,7 @@ import android.content.Intent
 import androidx.core.app.NotificationCompat
 import androidx.lifecycle.lifecycleScope
 import com.script.ScriptException
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.BaseService
 import io.legado.app.constant.AppConst
 import io.legado.app.constant.BookSourceType

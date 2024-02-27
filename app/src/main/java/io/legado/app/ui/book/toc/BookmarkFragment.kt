@@ -6,12 +6,12 @@ import android.os.Bundle
 import android.view.View
 import androidx.fragment.app.activityViewModels
 import androidx.lifecycle.lifecycleScope
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.VMBaseFragment
 import io.legado.app.constant.AppLog
 import io.legado.app.data.appDb
 import io.legado.app.data.entities.Bookmark
-import io.legado.app.databinding.FragmentBookmarkBinding
+import io.legado.app2.databinding.FragmentBookmarkBinding
 import io.legado.app.lib.theme.primaryColor
 import io.legado.app.ui.book.bookmark.BookmarkDialog
 import io.legado.app.ui.widget.recycler.UpLinearLayoutManager

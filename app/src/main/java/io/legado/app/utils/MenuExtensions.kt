@@ -12,7 +12,7 @@ import androidx.appcompat.view.menu.MenuBuilder
 import androidx.appcompat.view.menu.MenuItemImpl
 import androidx.appcompat.view.menu.SubMenuBuilder
 import androidx.core.view.forEach
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.constant.Theme
 import io.legado.app.lib.theme.primaryTextColor
 import java.lang.reflect.Method

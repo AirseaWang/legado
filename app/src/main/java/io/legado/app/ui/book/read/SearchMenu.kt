@@ -10,8 +10,8 @@ import android.view.LayoutInflater
 import android.view.animation.Animation
 import android.widget.FrameLayout
 import androidx.core.view.isVisible
-import io.legado.app.R
-import io.legado.app.databinding.ViewSearchMenuBinding
+import io.legado.app2.R
+import io.legado.app2.databinding.ViewSearchMenuBinding
 import io.legado.app.help.config.ReadBookConfig
 import io.legado.app.lib.theme.Selector
 import io.legado.app.lib.theme.bottomBackground

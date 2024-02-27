@@ -2,7 +2,7 @@ package io.legado.app.ui.association
 
 import android.app.Application
 import androidx.core.net.toUri
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.constant.AppConst
 import io.legado.app.help.config.ReadBookConfig
 import io.legado.app.help.http.newCallResponseBody

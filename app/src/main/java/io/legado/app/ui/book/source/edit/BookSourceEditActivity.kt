@@ -11,7 +11,7 @@ import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.google.android.material.tabs.TabLayout
 import com.google.zxing.qrcode.decoder.ErrorCorrectionLevel
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.VMBaseActivity
 import io.legado.app.constant.BookSourceType
 import io.legado.app.data.appDb
@@ -21,7 +21,7 @@ import io.legado.app.data.entities.rule.ContentRule
 import io.legado.app.data.entities.rule.ExploreRule
 import io.legado.app.data.entities.rule.SearchRule
 import io.legado.app.data.entities.rule.TocRule
-import io.legado.app.databinding.ActivityBookSourceEditBinding
+import io.legado.app2.databinding.ActivityBookSourceEditBinding
 import io.legado.app.help.config.LocalConfig
 import io.legado.app.lib.dialogs.SelectItem
 import io.legado.app.lib.dialogs.alert

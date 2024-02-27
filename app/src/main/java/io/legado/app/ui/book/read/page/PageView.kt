@@ -9,7 +9,7 @@ import androidx.core.view.isGone
 import androidx.core.view.isInvisible
 import io.legado.app.constant.AppConst.timeFormat
 import io.legado.app.data.entities.Bookmark
-import io.legado.app.databinding.ViewBookPageBinding
+import io.legado.app2.databinding.ViewBookPageBinding
 import io.legado.app.help.config.ReadBookConfig
 import io.legado.app.help.config.ReadTipConfig
 import io.legado.app.model.ReadBook

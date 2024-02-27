@@ -6,9 +6,9 @@ import android.text.SpannableString
 import android.text.style.ForegroundColorSpan
 import android.view.Menu
 import android.view.MenuItem
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.BaseActivity
-import io.legado.app.databinding.ActivityAboutBinding
+import io.legado.app2.databinding.ActivityAboutBinding
 import io.legado.app.lib.theme.accentColor
 import io.legado.app.lib.theme.filletBackground
 import io.legado.app.utils.openUrl

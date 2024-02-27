@@ -1,7 +1,7 @@
 package io.legado.app.help.config
 
 import android.content.Context
-import io.legado.app.R
+import io.legado.app2.R
 import splitties.init.appCtx
 
 @Suppress("ConstPropertyName")

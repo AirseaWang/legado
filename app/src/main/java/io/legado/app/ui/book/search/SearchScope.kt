@@ -1,7 +1,7 @@
 package io.legado.app.ui.book.search
 
 import androidx.lifecycle.MutableLiveData
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.data.appDb
 import io.legado.app.data.entities.BookSource
 import io.legado.app.data.entities.BookSourcePart

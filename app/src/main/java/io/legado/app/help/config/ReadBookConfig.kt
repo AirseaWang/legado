@@ -5,7 +5,7 @@ import android.graphics.drawable.BitmapDrawable
 import android.graphics.drawable.ColorDrawable
 import android.graphics.drawable.Drawable
 import androidx.annotation.Keep
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.constant.AppLog
 import io.legado.app.constant.PageAnim
 import io.legado.app.constant.PreferKey

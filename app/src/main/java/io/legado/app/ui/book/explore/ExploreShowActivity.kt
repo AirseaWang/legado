@@ -3,12 +3,12 @@ package io.legado.app.ui.book.explore
 import android.os.Bundle
 import androidx.activity.viewModels
 import androidx.recyclerview.widget.RecyclerView
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.VMBaseActivity
 import io.legado.app.data.entities.Book
 import io.legado.app.data.entities.SearchBook
-import io.legado.app.databinding.ActivityExploreShowBinding
-import io.legado.app.databinding.ViewLoadMoreBinding
+import io.legado.app2.databinding.ActivityExploreShowBinding
+import io.legado.app2.databinding.ViewLoadMoreBinding
 import io.legado.app.ui.book.info.BookInfoActivity
 import io.legado.app.ui.widget.recycler.LoadMoreView
 import io.legado.app.ui.widget.recycler.VerticalDivider

@@ -3,7 +3,7 @@ package io.legado.app.ui.main.bookshelf
 import android.app.Application
 import androidx.lifecycle.MutableLiveData
 import com.google.gson.stream.JsonWriter
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.BaseViewModel
 import io.legado.app.constant.AppLog
 import io.legado.app.data.appDb

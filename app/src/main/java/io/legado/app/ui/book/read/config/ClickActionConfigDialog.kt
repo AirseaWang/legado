@@ -5,10 +5,10 @@ import android.os.Bundle
 import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.BaseDialogFragment
 import io.legado.app.constant.PreferKey
-import io.legado.app.databinding.DialogClickActionConfigBinding
+import io.legado.app2.databinding.DialogClickActionConfigBinding
 import io.legado.app.help.config.AppConfig
 import io.legado.app.lib.dialogs.selector
 import io.legado.app.ui.book.read.ReadBookActivity

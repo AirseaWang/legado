@@ -7,14 +7,14 @@ import android.view.MenuItem
 import android.view.ViewGroup
 import androidx.appcompat.widget.SearchView
 import androidx.lifecycle.lifecycleScope
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.BaseActivity
 import io.legado.app.base.adapter.ItemViewHolder
 import io.legado.app.base.adapter.RecyclerAdapter
 import io.legado.app.data.appDb
 import io.legado.app.data.entities.ReadRecordShow
-import io.legado.app.databinding.ActivityReadRecordBinding
-import io.legado.app.databinding.ItemReadRecordBinding
+import io.legado.app2.databinding.ActivityReadRecordBinding
+import io.legado.app2.databinding.ItemReadRecordBinding
 import io.legado.app.help.config.AppConfig
 import io.legado.app.help.config.LocalConfig
 import io.legado.app.lib.dialogs.alert

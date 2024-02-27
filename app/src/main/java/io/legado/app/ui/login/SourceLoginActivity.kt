@@ -2,10 +2,10 @@ package io.legado.app.ui.login
 
 import android.os.Bundle
 import androidx.activity.viewModels
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.VMBaseActivity
 import io.legado.app.data.entities.BaseSource
-import io.legado.app.databinding.ActivitySourceLoginBinding
+import io.legado.app2.databinding.ActivitySourceLoginBinding
 import io.legado.app.utils.showDialogFragment
 import io.legado.app.utils.viewbindingdelegate.viewBinding
 

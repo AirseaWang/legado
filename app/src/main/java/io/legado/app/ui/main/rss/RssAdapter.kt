@@ -6,11 +6,11 @@ import android.view.ViewGroup
 import androidx.appcompat.widget.PopupMenu
 import androidx.lifecycle.Lifecycle
 import com.bumptech.glide.request.RequestOptions
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.adapter.ItemViewHolder
 import io.legado.app.base.adapter.RecyclerAdapter
 import io.legado.app.data.entities.RssSource
-import io.legado.app.databinding.ItemRssBinding
+import io.legado.app2.databinding.ItemRssBinding
 import io.legado.app.help.glide.ImageLoader
 import io.legado.app.help.glide.OkHttpModelLoader
 import splitties.views.onLongClick

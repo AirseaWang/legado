@@ -3,9 +3,9 @@ package io.legado.app.ui.about
 import android.os.Bundle
 import android.view.View
 import android.view.ViewGroup
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.BaseDialogFragment
-import io.legado.app.databinding.DialogUpdateBinding
+import io.legado.app2.databinding.DialogUpdateBinding
 import io.legado.app.help.AppUpdate
 import io.legado.app.lib.theme.primaryColor
 import io.legado.app.model.Download

@@ -7,7 +7,7 @@ import androidx.core.view.postDelayed
 import io.legado.app.base.BaseActivity
 import io.legado.app.constant.PreferKey
 import io.legado.app.constant.Theme
-import io.legado.app.databinding.ActivityWelcomeBinding
+import io.legado.app2.databinding.ActivityWelcomeBinding
 import io.legado.app.help.config.ThemeConfig
 import io.legado.app.lib.theme.accentColor
 import io.legado.app.lib.theme.backgroundColor

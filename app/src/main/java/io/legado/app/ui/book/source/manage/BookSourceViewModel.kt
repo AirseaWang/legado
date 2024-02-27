@@ -2,7 +2,7 @@ package io.legado.app.ui.book.source.manage
 
 import android.app.Application
 import android.text.TextUtils
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.BaseViewModel
 import io.legado.app.data.appDb
 import io.legado.app.data.entities.BookSource

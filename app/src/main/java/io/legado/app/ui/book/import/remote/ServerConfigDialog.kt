@@ -7,12 +7,12 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.appcompat.widget.Toolbar
 import androidx.fragment.app.viewModels
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.BaseDialogFragment
 import io.legado.app.data.entities.Server
 import io.legado.app.data.entities.rule.RowUi
-import io.legado.app.databinding.DialogWebdavServerBinding
-import io.legado.app.databinding.ItemSourceEditBinding
+import io.legado.app2.databinding.DialogWebdavServerBinding
+import io.legado.app2.databinding.ItemSourceEditBinding
 import io.legado.app.lib.theme.primaryColor
 import io.legado.app.utils.GSON
 import io.legado.app.utils.applyTint

@@ -9,7 +9,7 @@ import androidx.annotation.ColorInt
 import androidx.constraintlayout.widget.ConstraintLayout
 import androidx.coordinatorlayout.widget.CoordinatorLayout
 import androidx.recyclerview.widget.RecyclerView
-import io.legado.app.R
+import io.legado.app2.R
 
 @Suppress("MemberVisibilityCanBePrivate", "unused")
 class FastScrollRecyclerView : RecyclerView {

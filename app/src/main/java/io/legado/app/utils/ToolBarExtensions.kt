@@ -8,7 +8,7 @@ import android.graphics.PorterDuffColorFilter
 import android.os.Build
 import android.widget.Toolbar
 import androidx.core.content.ContextCompat
-import io.legado.app.R
+import io.legado.app2.R
 
 /**
  * 设置toolBar更多图标颜色

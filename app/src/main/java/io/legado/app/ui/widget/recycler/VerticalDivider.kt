@@ -3,7 +3,7 @@ package io.legado.app.ui.widget.recycler
 import android.content.Context
 import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.DividerItemDecoration
-import io.legado.app.R
+import io.legado.app2.R
 
 class VerticalDivider(context: Context) : DividerItemDecoration(context, VERTICAL) {
 

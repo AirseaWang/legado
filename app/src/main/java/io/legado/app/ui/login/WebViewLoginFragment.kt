@@ -16,11 +16,11 @@ import android.webkit.WebSettings
 import android.webkit.WebView
 import android.webkit.WebViewClient
 import androidx.fragment.app.activityViewModels
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.BaseFragment
 import io.legado.app.constant.AppConst
 import io.legado.app.data.entities.BaseSource
-import io.legado.app.databinding.FragmentWebViewLoginBinding
+import io.legado.app2.databinding.FragmentWebViewLoginBinding
 import io.legado.app.help.http.CookieStore
 import io.legado.app.lib.theme.accentColor
 import io.legado.app.utils.NetworkUtils

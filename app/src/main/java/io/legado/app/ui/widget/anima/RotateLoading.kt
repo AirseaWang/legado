@@ -9,7 +9,7 @@ import android.graphics.Paint
 import android.graphics.RectF
 import android.util.AttributeSet
 import android.view.View
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.lib.theme.accentColor
 import io.legado.app.utils.dpToPx
 

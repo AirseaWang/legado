@@ -1,6 +1,6 @@
 package io.legado.app.help.storage
 
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.constant.PreferKey
 import io.legado.app.utils.FileUtils
 import io.legado.app.utils.GSON

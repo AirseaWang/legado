@@ -11,7 +11,7 @@ import androidx.activity.viewModels
 import androidx.core.view.isGone
 import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.LinearLayoutManager
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.data.appDb
 import io.legado.app.help.config.AppConfig
 import io.legado.app.help.config.LocalConfig

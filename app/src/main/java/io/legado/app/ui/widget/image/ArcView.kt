@@ -4,7 +4,7 @@ import android.content.Context
 import android.graphics.*
 import android.util.AttributeSet
 import android.view.View
-import io.legado.app.R
+import io.legado.app2.R
 
 /**
  * 弧形View

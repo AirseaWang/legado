@@ -9,14 +9,14 @@ import android.view.ViewGroup
 import android.view.ViewTreeObserver
 import android.view.Window
 import android.widget.PopupWindow
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.adapter.ItemViewHolder
 import io.legado.app.base.adapter.RecyclerAdapter
 import io.legado.app.constant.AppLog
 import io.legado.app.data.appDb
 import io.legado.app.data.entities.KeyboardAssist
-import io.legado.app.databinding.ItemFilletTextBinding
-import io.legado.app.databinding.PopupKeyboardToolBinding
+import io.legado.app2.databinding.ItemFilletTextBinding
+import io.legado.app2.databinding.PopupKeyboardToolBinding
 import io.legado.app.lib.dialogs.SelectItem
 import io.legado.app.lib.dialogs.selector
 import io.legado.app.utils.activity

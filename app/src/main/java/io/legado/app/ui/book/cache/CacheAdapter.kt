@@ -5,11 +5,11 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.ProgressBar
 import android.widget.TextView
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.adapter.ItemViewHolder
 import io.legado.app.base.adapter.RecyclerAdapter
 import io.legado.app.data.entities.Book
-import io.legado.app.databinding.ItemDownloadBinding
+import io.legado.app2.databinding.ItemDownloadBinding
 import io.legado.app.help.book.isLocal
 import io.legado.app.model.CacheBook
 import io.legado.app.utils.gone

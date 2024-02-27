@@ -3,10 +3,10 @@ package io.legado.app.ui.rss.source.debug
 import android.content.Context
 import android.view.View
 import android.view.ViewGroup
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.adapter.ItemViewHolder
 import io.legado.app.base.adapter.RecyclerAdapter
-import io.legado.app.databinding.ItemLogBinding
+import io.legado.app2.databinding.ItemLogBinding
 
 class RssSourceDebugAdapter(context: Context) :
     RecyclerAdapter<String, ItemLogBinding>(context) {

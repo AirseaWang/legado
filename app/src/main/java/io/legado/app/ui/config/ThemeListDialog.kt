@@ -7,12 +7,12 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.appcompat.widget.Toolbar
 import androidx.recyclerview.widget.LinearLayoutManager
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.BaseDialogFragment
 import io.legado.app.base.adapter.ItemViewHolder
 import io.legado.app.base.adapter.RecyclerAdapter
-import io.legado.app.databinding.DialogRecyclerViewBinding
-import io.legado.app.databinding.ItemThemeConfigBinding
+import io.legado.app2.databinding.DialogRecyclerViewBinding
+import io.legado.app2.databinding.ItemThemeConfigBinding
 import io.legado.app.help.config.ThemeConfig
 import io.legado.app.lib.dialogs.alert
 import io.legado.app.lib.theme.primaryColor

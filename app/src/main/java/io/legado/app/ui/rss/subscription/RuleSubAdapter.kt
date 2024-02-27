@@ -5,11 +5,11 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.PopupMenu
 import androidx.recyclerview.widget.RecyclerView
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.adapter.ItemViewHolder
 import io.legado.app.base.adapter.RecyclerAdapter
 import io.legado.app.data.entities.RuleSub
-import io.legado.app.databinding.ItemRuleSubBinding
+import io.legado.app2.databinding.ItemRuleSubBinding
 import io.legado.app.ui.widget.recycler.ItemTouchCallback
 
 

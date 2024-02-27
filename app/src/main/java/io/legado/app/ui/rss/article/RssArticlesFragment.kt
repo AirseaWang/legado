@@ -9,13 +9,13 @@ import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.VMBaseFragment
 import io.legado.app.constant.AppLog
 import io.legado.app.data.appDb
 import io.legado.app.data.entities.RssArticle
-import io.legado.app.databinding.FragmentRssArticlesBinding
-import io.legado.app.databinding.ViewLoadMoreBinding
+import io.legado.app2.databinding.FragmentRssArticlesBinding
+import io.legado.app2.databinding.ViewLoadMoreBinding
 import io.legado.app.lib.theme.accentColor
 import io.legado.app.lib.theme.primaryColor
 import io.legado.app.ui.rss.read.ReadRssActivity

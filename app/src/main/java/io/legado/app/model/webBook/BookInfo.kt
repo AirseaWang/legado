@@ -1,7 +1,7 @@
 package io.legado.app.model.webBook
 
 import android.text.TextUtils
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.data.entities.Book
 import io.legado.app.data.entities.BookSource
 import io.legado.app.exception.NoStackTraceException

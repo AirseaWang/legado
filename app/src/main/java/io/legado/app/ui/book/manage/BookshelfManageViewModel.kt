@@ -2,7 +2,7 @@ package io.legado.app.ui.book.manage
 
 import android.app.Application
 import androidx.lifecycle.MutableLiveData
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.BaseViewModel
 import io.legado.app.constant.AppLog
 import io.legado.app.constant.BookType

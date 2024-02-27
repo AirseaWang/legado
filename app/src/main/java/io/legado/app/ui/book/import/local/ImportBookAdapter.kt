@@ -3,11 +3,11 @@ package io.legado.app.ui.book.import.local
 import android.annotation.SuppressLint
 import android.content.Context
 import android.view.ViewGroup
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.adapter.ItemViewHolder
 import io.legado.app.base.adapter.RecyclerAdapter
 import io.legado.app.constant.AppConst
-import io.legado.app.databinding.ItemImportBookBinding
+import io.legado.app2.databinding.ItemImportBookBinding
 import io.legado.app.model.localBook.LocalBook
 import io.legado.app.utils.*
 

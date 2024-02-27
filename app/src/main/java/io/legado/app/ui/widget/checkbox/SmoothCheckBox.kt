@@ -8,7 +8,7 @@ import android.view.View
 import android.view.animation.LinearInterpolator
 import android.widget.Checkable
 import androidx.core.view.postDelayed
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.lib.theme.ThemeStore
 import io.legado.app.utils.dpToPx
 import io.legado.app.utils.getCompatColor

@@ -7,7 +7,7 @@ import android.support.v4.media.session.PlaybackStateCompat
 import androidx.media.AudioAttributesCompat
 import androidx.media.AudioFocusRequestCompat
 import androidx.media.AudioManagerCompat
-import io.legado.app.R
+import io.legado.app2.R
 import splitties.systemservices.audioManager
 
 object MediaHelp {

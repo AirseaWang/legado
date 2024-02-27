@@ -12,13 +12,13 @@ import android.view.View
 import android.widget.SeekBar
 import androidx.core.view.MenuProvider
 import androidx.preference.Preference
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.AppContextWrapper
 import io.legado.app.constant.AppConst
 import io.legado.app.constant.EventBus
 import io.legado.app.constant.PreferKey
-import io.legado.app.databinding.DialogEditTextBinding
-import io.legado.app.databinding.DialogImageBlurringBinding
+import io.legado.app2.databinding.DialogEditTextBinding
+import io.legado.app2.databinding.DialogImageBlurringBinding
 import io.legado.app.help.LauncherIconHelp
 import io.legado.app.help.config.AppConfig
 import io.legado.app.help.config.ThemeConfig

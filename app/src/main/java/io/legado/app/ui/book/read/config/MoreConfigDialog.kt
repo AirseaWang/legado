@@ -8,7 +8,7 @@ import android.view.*
 import android.widget.LinearLayout
 import androidx.fragment.app.DialogFragment
 import androidx.preference.Preference
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.constant.EventBus
 import io.legado.app.constant.PreferKey
 import io.legado.app.help.config.AppConfig

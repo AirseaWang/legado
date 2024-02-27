@@ -41,7 +41,7 @@ class ColorPreference(context: Context, attrs: AttributeSet) : Preference(contex
 
     init {
         isPersistent = true
-        layoutResource = io.legado.app.R.layout.view_preference
+        layoutResource = io.legado.app2.R.layout.view_preference
 
         val a = context.obtainStyledAttributes(attrs, R.styleable.ColorPreference)
         showDialog = a.getBoolean(R.styleable.ColorPreference_cpv_showDialog, true)

@@ -11,9 +11,9 @@ import androidx.activity.viewModels
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentStatePagerAdapter
 import androidx.lifecycle.lifecycleScope
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.VMBaseActivity
-import io.legado.app.databinding.ActivityRssArtivlesBinding
+import io.legado.app2.databinding.ActivityRssArtivlesBinding
 import io.legado.app.help.source.sortUrls
 import io.legado.app.lib.theme.accentColor
 import io.legado.app.ui.login.SourceLoginActivity

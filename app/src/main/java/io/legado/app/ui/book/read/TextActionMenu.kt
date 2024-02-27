@@ -18,12 +18,12 @@ import androidx.appcompat.view.SupportMenuInflater
 import androidx.appcompat.view.menu.MenuBuilder
 import androidx.appcompat.view.menu.MenuItemImpl
 import androidx.core.view.isVisible
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.adapter.ItemViewHolder
 import io.legado.app.base.adapter.RecyclerAdapter
 import io.legado.app.constant.PreferKey
-import io.legado.app.databinding.ItemTextBinding
-import io.legado.app.databinding.PopupActionMenuBinding
+import io.legado.app2.databinding.ItemTextBinding
+import io.legado.app2.databinding.PopupActionMenuBinding
 import io.legado.app.help.config.AppConfig
 import io.legado.app.utils.getPrefBoolean
 import io.legado.app.utils.gone

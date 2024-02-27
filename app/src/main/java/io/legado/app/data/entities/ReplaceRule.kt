@@ -7,7 +7,7 @@ import androidx.room.Entity
 import androidx.room.Ignore
 import androidx.room.Index
 import androidx.room.PrimaryKey
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.constant.AppLog
 import io.legado.app.exception.NoStackTraceException
 import kotlinx.parcelize.IgnoredOnParcel

@@ -9,13 +9,13 @@ import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.activityViewModels
 import androidx.recyclerview.widget.LinearLayoutManager
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.BaseDialogFragment
 import io.legado.app.base.adapter.ItemViewHolder
 import io.legado.app.base.adapter.RecyclerAdapter
 import io.legado.app.data.entities.ReplaceRule
-import io.legado.app.databinding.DialogRecyclerViewBinding
-import io.legado.app.databinding.Item1lineTextBinding
+import io.legado.app2.databinding.DialogRecyclerViewBinding
+import io.legado.app2.databinding.Item1lineTextBinding
 import io.legado.app.lib.theme.primaryColor
 import io.legado.app.model.ReadBook
 import io.legado.app.ui.replace.edit.ReplaceEditActivity

@@ -3,7 +3,7 @@ package io.legado.app.data.entities
 import android.content.Context
 import android.os.Parcelable
 import androidx.room.*
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.constant.BookType
 import io.legado.app.utils.GSON
 import io.legado.app.utils.fromJsonObject

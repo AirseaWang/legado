@@ -3,7 +3,7 @@ package io.legado.app.web.socket
 
 import fi.iki.elonen.NanoHTTPD
 import fi.iki.elonen.NanoWSD
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.data.appDb
 import io.legado.app.model.Debug
 import io.legado.app.utils.*

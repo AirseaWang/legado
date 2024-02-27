@@ -10,7 +10,7 @@ import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.exception.NoStackTraceException
 import io.legado.app.utils.toastOnUi
 

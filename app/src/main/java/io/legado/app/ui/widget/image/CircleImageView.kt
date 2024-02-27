@@ -16,7 +16,7 @@ import androidx.annotation.ColorInt
 import androidx.annotation.ColorRes
 import androidx.annotation.DrawableRes
 import androidx.appcompat.widget.AppCompatImageView
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.utils.getCompatColor
 import io.legado.app.utils.printOnDebug
 import io.legado.app.utils.spToPx

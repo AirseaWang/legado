@@ -7,8 +7,8 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import io.legado.app.data.entities.Book
 import io.legado.app.data.entities.BookGroup
-import io.legado.app.databinding.ItemBookshelfGridBinding
-import io.legado.app.databinding.ItemBookshelfGridGroupBinding
+import io.legado.app2.databinding.ItemBookshelfGridBinding
+import io.legado.app2.databinding.ItemBookshelfGridGroupBinding
 import io.legado.app.help.book.isLocal
 import io.legado.app.help.config.AppConfig
 import io.legado.app.utils.invisible

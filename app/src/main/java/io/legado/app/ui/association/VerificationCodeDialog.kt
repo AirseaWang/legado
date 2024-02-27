@@ -13,9 +13,9 @@ import com.bumptech.glide.load.engine.DiskCacheStrategy
 import com.bumptech.glide.request.RequestOptions
 import com.bumptech.glide.request.target.CustomTarget
 import com.bumptech.glide.request.transition.Transition
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.BaseDialogFragment
-import io.legado.app.databinding.DialogVerificationCodeViewBinding
+import io.legado.app2.databinding.DialogVerificationCodeViewBinding
 import io.legado.app.help.CacheManager
 import io.legado.app.help.glide.ImageLoader
 import io.legado.app.help.glide.OkHttpModelLoader

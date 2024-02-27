@@ -22,8 +22,8 @@ import androidx.core.view.isVisible
 import androidx.core.view.size
 import androidx.lifecycle.lifecycleScope
 import com.jaredrummler.android.colorpicker.ColorPickerDialogListener
-import io.legado.app.BuildConfig
-import io.legado.app.R
+import io.legado.app2.BuildConfig
+import io.legado.app2.R
 import io.legado.app.constant.AppConst
 import io.legado.app.constant.AppLog
 import io.legado.app.constant.BookType

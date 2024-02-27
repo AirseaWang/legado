@@ -4,12 +4,12 @@ import android.content.Context
 import android.os.Bundle
 import android.view.ViewGroup
 import androidx.core.view.isVisible
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.base.adapter.ItemViewHolder
 import io.legado.app.base.adapter.RecyclerAdapter
 import io.legado.app.data.entities.Book
 import io.legado.app.data.entities.SearchBook
-import io.legado.app.databinding.ItemSearchBinding
+import io.legado.app2.databinding.ItemSearchBinding
 import io.legado.app.help.config.AppConfig
 import io.legado.app.utils.gone
 import io.legado.app.utils.visible

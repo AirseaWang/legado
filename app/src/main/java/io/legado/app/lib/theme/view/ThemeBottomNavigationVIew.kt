@@ -6,7 +6,7 @@ import android.view.LayoutInflater
 import com.google.android.material.bottomnavigation.BottomNavigationItemView
 import com.google.android.material.bottomnavigation.BottomNavigationMenuView
 import com.google.android.material.bottomnavigation.BottomNavigationView
-import io.legado.app.databinding.ViewNavigationBadgeBinding
+import io.legado.app2.databinding.ViewNavigationBadgeBinding
 import io.legado.app.lib.theme.Selector
 import io.legado.app.lib.theme.ThemeStore
 import io.legado.app.lib.theme.bottomBackground

@@ -6,7 +6,7 @@ import androidx.recyclerview.widget.DiffUtil
 import io.legado.app.base.adapter.DiffRecyclerAdapter
 import io.legado.app.base.adapter.ItemViewHolder
 import io.legado.app.data.entities.SearchBook
-import io.legado.app.databinding.ItemCoverBinding
+import io.legado.app2.databinding.ItemCoverBinding
 
 
 class CoverAdapter(context: Context, val callBack: CallBack) :

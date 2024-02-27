@@ -18,9 +18,9 @@ import android.widget.SeekBar
 import androidx.appcompat.widget.PopupMenu
 import androidx.core.view.isGone
 import androidx.core.view.isVisible
-import io.legado.app.R
+import io.legado.app2.R
 import io.legado.app.constant.PreferKey
-import io.legado.app.databinding.ViewReadMenuBinding
+import io.legado.app2.databinding.ViewReadMenuBinding
 import io.legado.app.help.IntentData
 import io.legado.app.help.config.AppConfig
 import io.legado.app.help.config.LocalConfig
