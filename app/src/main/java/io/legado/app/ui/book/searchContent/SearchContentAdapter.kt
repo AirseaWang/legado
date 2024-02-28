@@ -2,10 +2,10 @@ package io.legado.app.ui.book.searchContent
 
 import android.content.Context
 import android.view.ViewGroup
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.adapter.ItemViewHolder
 import io.legado.app.base.adapter.RecyclerAdapter
-import io.legado.app2.databinding.ItemSearchListBinding
+import io.legado.app.databinding.ItemSearchListBinding
 import io.legado.app.lib.theme.accentColor
 import io.legado.app.utils.getCompatColor
 import io.legado.app.utils.hexString

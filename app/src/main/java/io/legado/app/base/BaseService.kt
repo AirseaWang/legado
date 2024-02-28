@@ -5,7 +5,7 @@ import android.os.IBinder
 import androidx.annotation.CallSuper
 import androidx.lifecycle.LifecycleService
 import androidx.lifecycle.lifecycleScope
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.help.LifecycleHelp
 import io.legado.app.help.coroutine.Coroutine
 import io.legado.app.lib.permission.Permissions

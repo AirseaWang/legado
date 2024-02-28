@@ -5,7 +5,7 @@ import android.text.Layout
 import android.text.StaticLayout
 import androidx.annotation.Keep
 import androidx.core.graphics.withTranslation
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.help.config.ReadBookConfig
 import io.legado.app.model.ReadBook
 import io.legado.app.ui.book.read.page.ContentTextView

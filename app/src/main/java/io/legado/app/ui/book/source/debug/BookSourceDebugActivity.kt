@@ -8,9 +8,9 @@ import android.view.View
 import androidx.activity.viewModels
 import androidx.appcompat.widget.SearchView
 import androidx.lifecycle.lifecycleScope
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.VMBaseActivity
-import io.legado.app2.databinding.ActivitySourceDebugBinding
+import io.legado.app.databinding.ActivitySourceDebugBinding
 import io.legado.app.help.source.exploreKinds
 import io.legado.app.lib.dialogs.selector
 import io.legado.app.lib.theme.accentColor

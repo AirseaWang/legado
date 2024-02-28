@@ -4,9 +4,9 @@ import android.app.Dialog
 import android.content.Context
 import android.os.Bundle
 import android.view.ViewGroup
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.constant.AppConst
-import io.legado.app2.databinding.DialogUrlOptionEditBinding
+import io.legado.app.databinding.DialogUrlOptionEditBinding
 import io.legado.app.model.analyzeRule.AnalyzeUrl
 import io.legado.app.utils.GSON
 import io.legado.app.utils.setLayout

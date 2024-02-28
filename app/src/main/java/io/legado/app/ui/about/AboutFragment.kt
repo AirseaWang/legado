@@ -8,7 +8,7 @@ import androidx.annotation.StringRes
 import androidx.lifecycle.lifecycleScope
 import androidx.preference.Preference
 import androidx.preference.PreferenceFragmentCompat
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.constant.AppConst.appInfo
 import io.legado.app.constant.AppLog
 import io.legado.app.help.AppUpdate

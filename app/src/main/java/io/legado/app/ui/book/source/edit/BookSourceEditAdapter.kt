@@ -7,8 +7,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import io.legado.app2.R
-import io.legado.app2.databinding.ItemSourceEditBinding
+import io.legado.app.R
+import io.legado.app.databinding.ItemSourceEditBinding
 import io.legado.app.help.config.AppConfig
 import io.legado.app.ui.widget.code.addJsPattern
 import io.legado.app.ui.widget.code.addJsonPattern

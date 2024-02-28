@@ -7,13 +7,13 @@ import android.widget.PopupMenu
 import android.widget.TextView
 import androidx.core.view.children
 import com.google.android.flexbox.FlexboxLayout
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.adapter.ItemViewHolder
 import io.legado.app.base.adapter.RecyclerAdapter
 import io.legado.app.data.entities.BookSourcePart
 import io.legado.app.data.entities.rule.ExploreKind
-import io.legado.app2.databinding.ItemFilletTextBinding
-import io.legado.app2.databinding.ItemFindBookBinding
+import io.legado.app.databinding.ItemFilletTextBinding
+import io.legado.app.databinding.ItemFindBookBinding
 import io.legado.app.help.coroutine.Coroutine
 import io.legado.app.help.source.clearExploreKindsCache
 import io.legado.app.help.source.exploreKinds

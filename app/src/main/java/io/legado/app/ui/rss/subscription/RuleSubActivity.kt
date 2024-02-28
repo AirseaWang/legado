@@ -6,13 +6,13 @@ import android.view.MenuItem
 import androidx.core.view.isGone
 import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.ItemTouchHelper
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.BaseActivity
 import io.legado.app.constant.AppLog
 import io.legado.app.data.appDb
 import io.legado.app.data.entities.RuleSub
-import io.legado.app2.databinding.ActivityRuleSubBinding
-import io.legado.app2.databinding.DialogRuleSubEditBinding
+import io.legado.app.databinding.ActivityRuleSubBinding
+import io.legado.app.databinding.DialogRuleSubEditBinding
 import io.legado.app.lib.dialogs.alert
 import io.legado.app.ui.association.ImportBookSourceDialog
 import io.legado.app.ui.association.ImportReplaceRuleDialog

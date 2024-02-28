@@ -5,7 +5,7 @@ import android.util.Base64
 import androidx.documentfile.provider.DocumentFile
 import com.script.SimpleBindings
 import com.script.rhino.RhinoScriptEngine
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.constant.*
 import io.legado.app.data.appDb
 import io.legado.app.data.entities.BaseSource

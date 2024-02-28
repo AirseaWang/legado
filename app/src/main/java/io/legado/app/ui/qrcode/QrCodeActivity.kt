@@ -6,9 +6,9 @@ import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
 import com.google.zxing.Result
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.BaseActivity
-import io.legado.app2.databinding.ActivityQrcodeCaptureBinding
+import io.legado.app.databinding.ActivityQrcodeCaptureBinding
 import io.legado.app.utils.QRCodeUtils
 import io.legado.app.utils.SelectImageContract
 import io.legado.app.utils.launch

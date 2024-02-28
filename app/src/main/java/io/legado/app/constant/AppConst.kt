@@ -4,7 +4,7 @@ import android.annotation.SuppressLint
 import android.content.pm.PackageManager
 import android.provider.Settings
 import androidx.annotation.Keep
-import io.legado.app2.BuildConfig
+import io.legado.app.BuildConfig
 import splitties.init.appCtx
 import java.text.SimpleDateFormat
 

@@ -2,7 +2,7 @@ package io.legado.app.ui.config
 
 import android.app.Application
 import android.content.Context
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.BaseViewModel
 import io.legado.app.data.appDb
 import io.legado.app.help.AppWebDav

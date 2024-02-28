@@ -3,7 +3,7 @@ package io.legado.app.ui.widget.text
 import android.content.Context
 import android.util.AttributeSet
 import androidx.appcompat.widget.AppCompatTextView
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.lib.theme.*
 import io.legado.app.utils.ColorUtils
 import io.legado.app.utils.dpToPx

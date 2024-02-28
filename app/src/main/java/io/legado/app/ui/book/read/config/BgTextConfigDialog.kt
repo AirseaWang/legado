@@ -13,13 +13,13 @@ import android.view.WindowManager
 import android.widget.SeekBar
 import androidx.documentfile.provider.DocumentFile
 import com.jaredrummler.android.colorpicker.ColorPickerDialog
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.BaseDialogFragment
 import io.legado.app.constant.AppLog
 import io.legado.app.constant.EventBus
-import io.legado.app2.databinding.DialogEditTextBinding
-import io.legado.app2.databinding.DialogReadBgTextBinding
-import io.legado.app2.databinding.ItemBgImageBinding
+import io.legado.app.databinding.DialogEditTextBinding
+import io.legado.app.databinding.DialogReadBgTextBinding
+import io.legado.app.databinding.ItemBgImageBinding
 import io.legado.app.help.DefaultData
 import io.legado.app.help.config.ReadBookConfig
 import io.legado.app.help.http.newCallResponseBody

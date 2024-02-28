@@ -7,10 +7,10 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.appcompat.widget.Toolbar
 import androidx.fragment.app.viewModels
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.BaseDialogFragment
 import io.legado.app.base.BaseViewModel
-import io.legado.app2.databinding.DialogVariableBinding
+import io.legado.app.databinding.DialogVariableBinding
 import io.legado.app.lib.theme.primaryColor
 import io.legado.app.utils.applyTint
 import io.legado.app.utils.setLayout

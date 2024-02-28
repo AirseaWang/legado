@@ -60,15 +60,15 @@ class HttpTest {
                         val progress = cursor.getInt(progressIndex)
                         val max = cursor.getInt(fileSizeIndex)
                         val status = when (cursor.getInt(statusIndex)) {
-                            DownloadManager.STATUS_PAUSED -> appCtx.getString(io.legado.app2.R.string.pause)
-                            DownloadManager.STATUS_PENDING -> appCtx.getString(io.legado.app2.R.string.wait_download)
-                            DownloadManager.STATUS_RUNNING -> appCtx.getString(io.legado.app2.R.string.downloading)
+                            DownloadManager.STATUS_PAUSED -> appCtx.getString(R.string.pause)
+                            DownloadManager.STATUS_PENDING -> appCtx.getString(R.string.wait_download)
+                            DownloadManager.STATUS_RUNNING -> appCtx.getString(R.string.downloading)
                             DownloadManager.STATUS_SUCCESSFUL -> {
-                                appCtx.getString(io.legado.app2.R.string.download_success)
+                                appCtx.getString(R.string.download_success)
                             }
 
-                            DownloadManager.STATUS_FAILED -> appCtx.getString(io.legado.app2.R.string.download_error)
-                            else -> appCtx.getString(io.legado.app2.R.string.unknown_state)
+                            DownloadManager.STATUS_FAILED -> appCtx.getString(R.string.download_error)
+                            else -> appCtx.getString(R.string.unknown_state)
                         }
                         print(status)
                         delay(1000)

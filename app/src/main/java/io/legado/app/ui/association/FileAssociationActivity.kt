@@ -6,10 +6,10 @@ import androidx.activity.viewModels
 import androidx.core.os.postDelayed
 import androidx.documentfile.provider.DocumentFile
 import androidx.lifecycle.lifecycleScope
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.VMBaseActivity
 import io.legado.app.constant.AppLog
-import io.legado.app2.databinding.ActivityTranslucenceBinding
+import io.legado.app.databinding.ActivityTranslucenceBinding
 import io.legado.app.exception.InvalidBooksDirException
 import io.legado.app.help.config.AppConfig
 import io.legado.app.lib.dialogs.alert

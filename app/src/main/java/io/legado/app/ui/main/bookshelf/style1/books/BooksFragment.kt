@@ -12,14 +12,14 @@ import androidx.lifecycle.repeatOnLifecycle
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.BaseFragment
 import io.legado.app.constant.AppLog
 import io.legado.app.constant.EventBus
 import io.legado.app.data.appDb
 import io.legado.app.data.entities.Book
 import io.legado.app.data.entities.BookGroup
-import io.legado.app2.databinding.FragmentBooksBinding
+import io.legado.app.databinding.FragmentBooksBinding
 import io.legado.app.help.book.isAudio
 import io.legado.app.help.config.AppConfig
 import io.legado.app.lib.theme.accentColor

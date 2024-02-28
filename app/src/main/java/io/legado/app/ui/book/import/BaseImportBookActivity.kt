@@ -5,11 +5,11 @@ import android.view.MotionEvent
 import android.widget.EditText
 import androidx.appcompat.widget.SearchView
 import androidx.lifecycle.ViewModel
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.VMBaseActivity
 import io.legado.app.constant.AppPattern
 import io.legado.app.data.appDb
-import io.legado.app2.databinding.ActivityImportBookBinding
+import io.legado.app.databinding.ActivityImportBookBinding
 import io.legado.app.help.config.AppConfig
 import io.legado.app.lib.dialogs.alert
 import io.legado.app.lib.dialogs.selector

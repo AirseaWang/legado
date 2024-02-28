@@ -5,8 +5,8 @@ import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import android.widget.FrameLayout
-import io.legado.app2.R
-import io.legado.app2.databinding.ViewLoadMoreBinding
+import io.legado.app.R
+import io.legado.app.databinding.ViewLoadMoreBinding
 import io.legado.app.lib.dialogs.alert
 import io.legado.app.utils.invisible
 import io.legado.app.utils.visible

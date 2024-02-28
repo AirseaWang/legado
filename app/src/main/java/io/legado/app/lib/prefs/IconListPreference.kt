@@ -12,12 +12,12 @@ import androidx.fragment.app.FragmentActivity
 import androidx.preference.ListPreference
 import androidx.preference.PreferenceViewHolder
 import androidx.recyclerview.widget.LinearLayoutManager
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.BaseDialogFragment
 import io.legado.app.base.adapter.ItemViewHolder
 import io.legado.app.base.adapter.RecyclerAdapter
-import io.legado.app2.databinding.DialogRecyclerViewBinding
-import io.legado.app2.databinding.ItemIconPreferenceBinding
+import io.legado.app.databinding.DialogRecyclerViewBinding
+import io.legado.app.databinding.ItemIconPreferenceBinding
 import io.legado.app.lib.theme.primaryColor
 import io.legado.app.utils.getCompatDrawable
 import io.legado.app.utils.setLayout

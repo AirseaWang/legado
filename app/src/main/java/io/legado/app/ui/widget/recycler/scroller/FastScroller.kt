@@ -25,7 +25,7 @@ import androidx.core.view.isVisible
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import androidx.recyclerview.widget.StaggeredGridLayoutManager
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.lib.theme.accentColor
 import io.legado.app.utils.ColorUtils
 import io.legado.app.utils.getCompatColor

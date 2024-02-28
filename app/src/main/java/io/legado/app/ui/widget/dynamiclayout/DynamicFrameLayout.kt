@@ -10,7 +10,7 @@ import android.widget.ProgressBar
 import androidx.appcompat.widget.AppCompatButton
 import androidx.appcompat.widget.AppCompatImageView
 import androidx.appcompat.widget.AppCompatTextView
-import io.legado.app2.R
+import io.legado.app.R
 
 @Suppress("unused")
 class DynamicFrameLayout @JvmOverloads constructor(

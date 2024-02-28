@@ -9,8 +9,8 @@ import android.widget.FrameLayout
 import androidx.annotation.MenuRes
 import androidx.annotation.StringRes
 import androidx.appcompat.widget.PopupMenu
-import io.legado.app2.R
-import io.legado.app2.databinding.ViewSelectActionBarBinding
+import io.legado.app.R
+import io.legado.app.databinding.ViewSelectActionBarBinding
 import io.legado.app.lib.theme.*
 import io.legado.app.utils.ColorUtils
 import io.legado.app.utils.visible

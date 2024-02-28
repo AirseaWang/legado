@@ -4,7 +4,7 @@ import android.content.Context
 import android.net.Uri
 import androidx.documentfile.provider.DocumentFile
 import com.jayway.jsonpath.DocumentContext
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.constant.AppConst
 import io.legado.app.constant.BookSourceType
 import io.legado.app.constant.BookType

@@ -6,9 +6,9 @@ import android.view.MenuItem
 import android.widget.SearchView
 import androidx.activity.viewModels
 import androidx.lifecycle.lifecycleScope
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.VMBaseActivity
-import io.legado.app2.databinding.ActivitySourceDebugBinding
+import io.legado.app.databinding.ActivitySourceDebugBinding
 import io.legado.app.lib.theme.accentColor
 import io.legado.app.lib.theme.primaryColor
 import io.legado.app.ui.widget.dialog.TextDialog

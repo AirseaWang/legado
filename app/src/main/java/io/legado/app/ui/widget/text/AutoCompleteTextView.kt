@@ -11,7 +11,7 @@ import android.widget.ArrayAdapter
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.appcompat.widget.AppCompatAutoCompleteTextView
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.lib.theme.accentColor
 import io.legado.app.utils.applyTint
 import io.legado.app.utils.gone

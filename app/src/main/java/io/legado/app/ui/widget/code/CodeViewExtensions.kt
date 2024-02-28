@@ -4,7 +4,7 @@ package io.legado.app.ui.widget.code
 
 import android.content.Context
 import android.widget.ArrayAdapter
-import io.legado.app2.R
+import io.legado.app.R
 import splitties.init.appCtx
 import splitties.resources.color
 import java.util.regex.Pattern

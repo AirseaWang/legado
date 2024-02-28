@@ -10,11 +10,11 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
 import androidx.fragment.app.FragmentStatePagerAdapter
 import com.google.android.material.tabs.TabLayout
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.data.appDb
 import io.legado.app.data.entities.Book
 import io.legado.app.data.entities.BookGroup
-import io.legado.app2.databinding.FragmentBookshelf1Binding
+import io.legado.app.databinding.FragmentBookshelf1Binding
 import io.legado.app.help.config.AppConfig
 import io.legado.app.lib.theme.accentColor
 import io.legado.app.lib.theme.primaryColor

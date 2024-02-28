@@ -9,7 +9,7 @@ import android.os.Looper
 import android.util.AttributeSet
 import android.view.View
 
-import io.legado.app2.R
+import io.legado.app.R
 
 @Suppress("unused", "MemberVisibilityCanBePrivate")
 class RefreshProgressBar @JvmOverloads constructor(

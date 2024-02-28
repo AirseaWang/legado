@@ -4,11 +4,11 @@ import android.os.Bundle
 import android.view.View
 import android.view.ViewGroup
 import androidx.lifecycle.lifecycleScope
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.BaseDialogFragment
 import io.legado.app.data.appDb
 import io.legado.app.data.entities.Bookmark
-import io.legado.app2.databinding.DialogBookmarkBinding
+import io.legado.app.databinding.DialogBookmarkBinding
 import io.legado.app.lib.theme.primaryColor
 import io.legado.app.utils.setLayout
 import io.legado.app.utils.viewbindingdelegate.viewBinding

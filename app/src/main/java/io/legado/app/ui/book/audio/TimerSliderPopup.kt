@@ -6,8 +6,8 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.PopupWindow
 import android.widget.SeekBar
-import io.legado.app2.R
-import io.legado.app2.databinding.PopupSeekBarBinding
+import io.legado.app.R
+import io.legado.app.databinding.PopupSeekBarBinding
 import io.legado.app.model.AudioPlay
 import io.legado.app.service.AudioPlayService
 import io.legado.app.ui.widget.seekbar.SeekBarChangeListener

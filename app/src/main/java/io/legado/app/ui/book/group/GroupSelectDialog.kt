@@ -11,14 +11,14 @@ import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.ItemTouchHelper
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.BaseDialogFragment
 import io.legado.app.base.adapter.ItemViewHolder
 import io.legado.app.base.adapter.RecyclerAdapter
 import io.legado.app.data.appDb
 import io.legado.app.data.entities.BookGroup
-import io.legado.app2.databinding.DialogBookGroupPickerBinding
-import io.legado.app2.databinding.ItemGroupSelectBinding
+import io.legado.app.databinding.DialogBookGroupPickerBinding
+import io.legado.app.databinding.ItemGroupSelectBinding
 import io.legado.app.lib.theme.accentColor
 import io.legado.app.lib.theme.backgroundColor
 import io.legado.app.lib.theme.primaryColor

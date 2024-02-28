@@ -3,10 +3,10 @@ package io.legado.app.ui.config
 import android.os.Bundle
 import androidx.activity.viewModels
 import androidx.fragment.app.Fragment
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.VMBaseActivity
 import io.legado.app.constant.EventBus
-import io.legado.app2.databinding.ActivityConfigBinding
+import io.legado.app.databinding.ActivityConfigBinding
 import io.legado.app.utils.observeEvent
 import io.legado.app.utils.viewbindingdelegate.viewBinding
 

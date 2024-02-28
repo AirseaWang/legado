@@ -5,9 +5,9 @@ import android.view.MenuItem
 import android.view.View
 import android.view.ViewGroup
 import androidx.appcompat.widget.Toolbar
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.BaseDialogFragment
-import io.legado.app2.databinding.DialogDirectLinkUploadConfigBinding
+import io.legado.app.databinding.DialogDirectLinkUploadConfigBinding
 import io.legado.app.help.DirectLinkUpload
 import io.legado.app.lib.dialogs.alert
 import io.legado.app.lib.dialogs.selector

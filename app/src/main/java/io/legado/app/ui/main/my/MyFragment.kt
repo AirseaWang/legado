@@ -6,11 +6,11 @@ import android.view.Menu
 import android.view.MenuItem
 import android.view.View
 import androidx.preference.Preference
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.BaseFragment
 import io.legado.app.constant.EventBus
 import io.legado.app.constant.PreferKey
-import io.legado.app2.databinding.FragmentMyConfigBinding
+import io.legado.app.databinding.FragmentMyConfigBinding
 import io.legado.app.help.config.ThemeConfig
 import io.legado.app.lib.dialogs.selector
 import io.legado.app.lib.prefs.NameListPreference

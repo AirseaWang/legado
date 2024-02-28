@@ -1,6 +1,6 @@
 package io.legado.app.model.webBook
 
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.data.entities.Book
 import io.legado.app.data.entities.BookSource
 import io.legado.app.data.entities.SearchBook

@@ -6,14 +6,14 @@ import android.view.MenuItem
 import androidx.fragment.app.activityViewModels
 import androidx.fragment.app.viewModels
 import androidx.lifecycle.LiveData
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.VMBaseFragment
 import io.legado.app.constant.EventBus
 import io.legado.app.data.appDb
 import io.legado.app.data.entities.Book
 import io.legado.app.data.entities.BookGroup
-import io.legado.app2.databinding.DialogBookshelfConfigBinding
-import io.legado.app2.databinding.DialogEditTextBinding
+import io.legado.app.databinding.DialogBookshelfConfigBinding
+import io.legado.app.databinding.DialogEditTextBinding
 import io.legado.app.help.DirectLinkUpload
 import io.legado.app.help.config.AppConfig
 import io.legado.app.lib.dialogs.alert

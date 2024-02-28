@@ -11,9 +11,9 @@ import androidx.appcompat.widget.PopupMenu
 import androidx.documentfile.provider.DocumentFile
 import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.LinearLayoutManager
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.constant.PreferKey
-import io.legado.app2.databinding.DialogEditTextBinding
+import io.legado.app.databinding.DialogEditTextBinding
 import io.legado.app.help.config.AppConfig
 import io.legado.app.lib.dialogs.alert
 import io.legado.app.lib.permission.Permissions

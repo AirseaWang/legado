@@ -7,7 +7,7 @@ import io.legado.app.base.BaseActivity
 import io.legado.app.constant.AppLog
 import io.legado.app.data.appDb
 import io.legado.app.data.entities.RssStar
-import io.legado.app2.databinding.ActivityRssFavoritesBinding
+import io.legado.app.databinding.ActivityRssFavoritesBinding
 import io.legado.app.lib.theme.accentColor
 import io.legado.app.ui.rss.read.ReadRssActivity
 import io.legado.app.ui.widget.recycler.VerticalDivider

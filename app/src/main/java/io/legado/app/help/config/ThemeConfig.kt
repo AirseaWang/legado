@@ -6,7 +6,7 @@ import android.graphics.Color
 import android.util.DisplayMetrics
 import androidx.annotation.Keep
 import androidx.appcompat.app.AppCompatDelegate
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.constant.EventBus
 import io.legado.app.constant.PreferKey
 import io.legado.app.constant.Theme

@@ -3,9 +3,9 @@ package io.legado.app.ui.widget.dialog
 import android.os.Bundle
 import android.view.View
 import android.view.ViewGroup
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.BaseDialogFragment
-import io.legado.app2.databinding.DialogCodeViewBinding
+import io.legado.app.databinding.DialogCodeViewBinding
 import io.legado.app.help.IntentData
 import io.legado.app.lib.theme.primaryColor
 import io.legado.app.ui.widget.code.addJsPattern

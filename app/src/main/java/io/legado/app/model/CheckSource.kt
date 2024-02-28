@@ -1,7 +1,7 @@
 package io.legado.app.model
 
 import android.content.Context
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.constant.IntentAction
 import io.legado.app.data.entities.BookSourcePart
 import io.legado.app.help.CacheManager

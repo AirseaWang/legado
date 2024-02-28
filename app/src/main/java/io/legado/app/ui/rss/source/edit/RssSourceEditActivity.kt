@@ -9,10 +9,10 @@ import androidx.activity.viewModels
 import androidx.lifecycle.lifecycleScope
 import com.google.android.material.tabs.TabLayout
 import com.google.zxing.qrcode.decoder.ErrorCorrectionLevel
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.VMBaseActivity
 import io.legado.app.data.entities.RssSource
-import io.legado.app2.databinding.ActivityRssSourceEditBinding
+import io.legado.app.databinding.ActivityRssSourceEditBinding
 import io.legado.app.help.config.LocalConfig
 import io.legado.app.lib.dialogs.SelectItem
 import io.legado.app.lib.dialogs.alert

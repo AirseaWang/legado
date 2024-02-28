@@ -5,7 +5,7 @@ import android.os.Parcelable
 import androidx.room.ColumnInfo
 import androidx.room.Entity
 import androidx.room.PrimaryKey
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.help.config.AppConfig
 import kotlinx.parcelize.Parcelize
 

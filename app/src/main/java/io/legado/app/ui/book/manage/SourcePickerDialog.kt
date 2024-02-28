@@ -10,7 +10,7 @@ import androidx.appcompat.widget.Toolbar
 import androidx.core.view.setPadding
 import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.LinearLayoutManager
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.BaseDialogFragment
 import io.legado.app.base.adapter.ItemViewHolder
 import io.legado.app.base.adapter.RecyclerAdapter
@@ -18,8 +18,8 @@ import io.legado.app.constant.AppLog
 import io.legado.app.data.appDb
 import io.legado.app.data.entities.BookSource
 import io.legado.app.data.entities.BookSourcePart
-import io.legado.app2.databinding.DialogSourcePickerBinding
-import io.legado.app2.databinding.Item1lineTextBinding
+import io.legado.app.databinding.DialogSourcePickerBinding
+import io.legado.app.databinding.Item1lineTextBinding
 import io.legado.app.help.config.AppConfig
 import io.legado.app.lib.theme.primaryColor
 import io.legado.app.lib.theme.primaryTextColor

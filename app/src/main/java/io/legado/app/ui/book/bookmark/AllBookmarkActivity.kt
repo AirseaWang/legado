@@ -5,12 +5,12 @@ import android.view.Menu
 import android.view.MenuItem
 import androidx.activity.viewModels
 import androidx.lifecycle.lifecycleScope
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.VMBaseActivity
 import io.legado.app.constant.AppLog
 import io.legado.app.data.appDb
 import io.legado.app.data.entities.Bookmark
-import io.legado.app2.databinding.ActivityAllBookmarkBinding
+import io.legado.app.databinding.ActivityAllBookmarkBinding
 import io.legado.app.ui.file.HandleFileContract
 import io.legado.app.utils.showDialogFragment
 import io.legado.app.utils.viewbindingdelegate.viewBinding

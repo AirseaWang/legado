@@ -5,9 +5,9 @@ import android.util.Log
 import android.view.View
 import android.view.ViewGroup
 import androidx.lifecycle.lifecycleScope
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.BaseDialogFragment
-import io.legado.app2.databinding.DialogCoverRuleConfigBinding
+import io.legado.app.databinding.DialogCoverRuleConfigBinding
 import io.legado.app.lib.theme.primaryColor
 import io.legado.app.model.BookCover
 import io.legado.app.utils.GSON

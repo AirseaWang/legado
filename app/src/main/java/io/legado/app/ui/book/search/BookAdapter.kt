@@ -5,7 +5,7 @@ import android.view.ViewGroup
 import io.legado.app.base.adapter.ItemViewHolder
 import io.legado.app.base.adapter.RecyclerAdapter
 import io.legado.app.data.entities.Book
-import io.legado.app2.databinding.ItemFilletTextBinding
+import io.legado.app.databinding.ItemFilletTextBinding
 
 
 class BookAdapter(context: Context, val callBack: CallBack) :

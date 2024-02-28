@@ -5,12 +5,12 @@ import android.os.Bundle
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.LinearLayoutManager
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.BaseDialogFragment
 import io.legado.app.base.adapter.ItemViewHolder
 import io.legado.app.base.adapter.RecyclerAdapter
-import io.legado.app2.databinding.DialogRecyclerViewBinding
-import io.legado.app2.databinding.ItemLogBinding
+import io.legado.app.databinding.DialogRecyclerViewBinding
+import io.legado.app.databinding.ItemLogBinding
 import io.legado.app.utils.setLayout
 import io.legado.app.utils.viewbindingdelegate.viewBinding
 

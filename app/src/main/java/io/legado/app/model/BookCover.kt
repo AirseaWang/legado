@@ -9,7 +9,7 @@ import com.bumptech.glide.RequestBuilder
 import com.bumptech.glide.load.resource.bitmap.CenterCrop
 import com.bumptech.glide.load.resource.drawable.DrawableTransitionOptions
 import com.bumptech.glide.request.RequestOptions
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.constant.PreferKey
 import io.legado.app.data.entities.BaseSource
 import io.legado.app.data.entities.Book

@@ -5,10 +5,10 @@ import android.os.Bundle
 import android.view.View
 import android.view.ViewGroup
 import android.view.WindowManager
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.BaseDialogFragment
 import io.legado.app.constant.EventBus
-import io.legado.app2.databinding.DialogReadPaddingBinding
+import io.legado.app.databinding.DialogReadPaddingBinding
 import io.legado.app.help.config.ReadBookConfig
 import io.legado.app.utils.postEvent
 import io.legado.app.utils.setLayout

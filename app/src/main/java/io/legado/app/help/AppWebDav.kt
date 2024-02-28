@@ -1,7 +1,7 @@
 package io.legado.app.help
 
 import android.net.Uri
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.constant.AppLog
 import io.legado.app.constant.PreferKey
 import io.legado.app.data.appDb

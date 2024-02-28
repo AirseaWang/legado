@@ -10,7 +10,7 @@ import android.view.MotionEvent
 import android.widget.ProgressBar
 import androidx.appcompat.widget.AppCompatSeekBar
 import androidx.core.view.ViewCompat
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.lib.theme.accentColor
 import io.legado.app.utils.applyTint
 import java.lang.reflect.InvocationTargetException

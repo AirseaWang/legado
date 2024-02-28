@@ -9,10 +9,10 @@ import com.bumptech.glide.load.engine.GlideException
 import com.bumptech.glide.request.RequestListener
 import com.bumptech.glide.request.RequestOptions
 import com.bumptech.glide.request.target.Target
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.adapter.ItemViewHolder
 import io.legado.app.data.entities.RssArticle
-import io.legado.app2.databinding.ItemRssArticle1Binding
+import io.legado.app.databinding.ItemRssArticle1Binding
 import io.legado.app.help.glide.ImageLoader
 import io.legado.app.help.glide.OkHttpModelLoader
 import io.legado.app.utils.getCompatColor

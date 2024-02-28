@@ -14,7 +14,7 @@ import android.widget.FrameLayout
 import androidx.annotation.RequiresApi
 import androidx.appcompat.app.AppCompatActivity
 import androidx.viewbinding.ViewBinding
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.constant.AppConst
 import io.legado.app.constant.AppLog
 import io.legado.app.constant.Theme

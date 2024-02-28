@@ -5,8 +5,8 @@ import android.view.ViewGroup
 import android.widget.PopupWindow
 import io.legado.app.base.adapter.ItemViewHolder
 import io.legado.app.base.adapter.RecyclerAdapter
-import io.legado.app2.databinding.ItemTextBinding
-import io.legado.app2.databinding.PopupActionBinding
+import io.legado.app.databinding.ItemTextBinding
+import io.legado.app.databinding.PopupActionBinding
 import io.legado.app.lib.dialogs.SelectItem
 import splitties.systemservices.layoutInflater
 

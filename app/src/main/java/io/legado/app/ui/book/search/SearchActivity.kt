@@ -15,14 +15,14 @@ import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.google.android.flexbox.FlexboxLayoutManager
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.VMBaseActivity
 import io.legado.app.constant.AppLog
 import io.legado.app.constant.PreferKey
 import io.legado.app.data.appDb
 import io.legado.app.data.entities.Book
 import io.legado.app.data.entities.SearchKeyword
-import io.legado.app2.databinding.ActivityBookSearchBinding
+import io.legado.app.databinding.ActivityBookSearchBinding
 import io.legado.app.lib.dialogs.alert
 import io.legado.app.lib.theme.Selector
 import io.legado.app.lib.theme.accentColor

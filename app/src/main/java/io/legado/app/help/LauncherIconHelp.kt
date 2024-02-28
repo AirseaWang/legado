@@ -3,7 +3,7 @@ package io.legado.app.help
 import android.content.ComponentName
 import android.content.pm.PackageManager
 import android.os.Build
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.ui.welcome.*
 import io.legado.app.utils.toastOnUi
 import splitties.init.appCtx

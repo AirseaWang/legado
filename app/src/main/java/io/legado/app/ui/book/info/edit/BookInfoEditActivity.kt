@@ -6,11 +6,11 @@ import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
 import androidx.activity.viewModels
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.VMBaseActivity
 import io.legado.app.constant.BookType
 import io.legado.app.data.entities.Book
-import io.legado.app2.databinding.ActivityBookInfoEditBinding
+import io.legado.app.databinding.ActivityBookInfoEditBinding
 import io.legado.app.help.book.BookHelp
 import io.legado.app.help.book.isAudio
 import io.legado.app.help.book.isImage

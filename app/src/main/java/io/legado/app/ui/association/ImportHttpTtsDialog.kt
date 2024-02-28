@@ -8,13 +8,13 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.viewModels
 import androidx.recyclerview.widget.LinearLayoutManager
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.BaseDialogFragment
 import io.legado.app.base.adapter.ItemViewHolder
 import io.legado.app.base.adapter.RecyclerAdapter
 import io.legado.app.data.entities.HttpTTS
-import io.legado.app2.databinding.DialogRecyclerViewBinding
-import io.legado.app2.databinding.ItemSourceImportBinding
+import io.legado.app.databinding.DialogRecyclerViewBinding
+import io.legado.app.databinding.ItemSourceImportBinding
 import io.legado.app.lib.theme.primaryColor
 import io.legado.app.ui.widget.dialog.CodeDialog
 import io.legado.app.ui.widget.dialog.WaitDialog

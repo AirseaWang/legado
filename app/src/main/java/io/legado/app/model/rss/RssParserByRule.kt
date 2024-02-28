@@ -1,7 +1,7 @@
 package io.legado.app.model.rss
 
 import androidx.annotation.Keep
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.data.entities.RssArticle
 import io.legado.app.data.entities.RssSource
 import io.legado.app.exception.NoStackTraceException

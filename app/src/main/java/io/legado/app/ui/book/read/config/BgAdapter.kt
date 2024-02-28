@@ -5,7 +5,7 @@ import android.view.ViewGroup
 import io.legado.app.base.adapter.ItemViewHolder
 import io.legado.app.base.adapter.RecyclerAdapter
 import io.legado.app.constant.EventBus
-import io.legado.app2.databinding.ItemBgImageBinding
+import io.legado.app.databinding.ItemBgImageBinding
 import io.legado.app.help.config.ReadBookConfig
 import io.legado.app.help.glide.ImageLoader
 import io.legado.app.utils.postEvent

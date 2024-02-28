@@ -5,7 +5,7 @@ import android.view.ViewGroup
 import io.legado.app.base.adapter.ItemViewHolder
 import io.legado.app.base.adapter.RecyclerAdapter
 import io.legado.app.data.entities.Bookmark
-import io.legado.app2.databinding.ItemBookmarkBinding
+import io.legado.app.databinding.ItemBookmarkBinding
 import io.legado.app.utils.gone
 import splitties.views.onLongClick
 

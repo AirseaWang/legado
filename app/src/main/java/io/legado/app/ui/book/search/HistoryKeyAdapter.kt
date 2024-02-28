@@ -4,7 +4,7 @@ import android.view.ViewGroup
 import io.legado.app.base.adapter.ItemViewHolder
 import io.legado.app.base.adapter.RecyclerAdapter
 import io.legado.app.data.entities.SearchKeyword
-import io.legado.app2.databinding.ItemFilletTextBinding
+import io.legado.app.databinding.ItemFilletTextBinding
 import io.legado.app.ui.widget.anima.explosion_field.ExplosionField
 import splitties.views.onLongClick
 

@@ -8,12 +8,12 @@ import android.view.ViewGroup
 import androidx.appcompat.widget.Toolbar
 
 import androidx.fragment.app.viewModels
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.BaseDialogFragment
 import io.legado.app.base.BaseViewModel
 import io.legado.app.data.appDb
 import io.legado.app.data.entities.DictRule
-import io.legado.app2.databinding.DialogDictRuleEditBinding
+import io.legado.app.databinding.DialogDictRuleEditBinding
 import io.legado.app.lib.theme.primaryColor
 import io.legado.app.utils.*
 import io.legado.app.utils.viewbindingdelegate.viewBinding

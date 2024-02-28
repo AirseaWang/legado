@@ -16,7 +16,7 @@ import androidx.appcompat.widget.Toolbar
 import androidx.core.graphics.alpha
 import androidx.core.view.children
 import com.google.android.material.appbar.AppBarLayout
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.lib.theme.elevation
 import io.legado.app.lib.theme.primaryColor
 import io.legado.app.utils.activity

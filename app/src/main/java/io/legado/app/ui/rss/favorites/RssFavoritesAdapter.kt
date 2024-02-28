@@ -11,7 +11,7 @@ import com.bumptech.glide.request.target.Target
 import io.legado.app.base.adapter.ItemViewHolder
 import io.legado.app.base.adapter.RecyclerAdapter
 import io.legado.app.data.entities.RssStar
-import io.legado.app2.databinding.ItemRssArticleBinding
+import io.legado.app.databinding.ItemRssArticleBinding
 import io.legado.app.help.glide.ImageLoader
 import io.legado.app.help.glide.OkHttpModelLoader
 import io.legado.app.utils.gone

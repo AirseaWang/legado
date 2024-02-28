@@ -12,10 +12,10 @@ import android.webkit.*
 import androidx.activity.addCallback
 import androidx.activity.viewModels
 import androidx.core.view.size
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.VMBaseActivity
 import io.legado.app.constant.AppConst
-import io.legado.app2.databinding.ActivityWebViewBinding
+import io.legado.app.databinding.ActivityWebViewBinding
 import io.legado.app.help.config.AppConfig
 import io.legado.app.help.http.CookieStore
 import io.legado.app.help.source.SourceVerificationHelp

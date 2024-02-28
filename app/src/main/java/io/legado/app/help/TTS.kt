@@ -2,7 +2,7 @@ package io.legado.app.help
 
 import android.speech.tts.TextToSpeech
 import android.speech.tts.UtteranceProgressListener
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.constant.AppLog
 import io.legado.app.utils.buildMainHandler
 import io.legado.app.utils.splitNotBlank

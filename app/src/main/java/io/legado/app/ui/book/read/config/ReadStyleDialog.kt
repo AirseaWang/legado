@@ -8,13 +8,13 @@ import android.view.ViewGroup
 import android.view.WindowManager
 import androidx.core.view.get
 import com.github.liuyueyi.quick.transfer.constants.TransType
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.BaseDialogFragment
 import io.legado.app.base.adapter.ItemViewHolder
 import io.legado.app.base.adapter.RecyclerAdapter
 import io.legado.app.constant.EventBus
-import io.legado.app2.databinding.DialogReadBookStyleBinding
-import io.legado.app2.databinding.ItemReadStyleBinding
+import io.legado.app.databinding.DialogReadBookStyleBinding
+import io.legado.app.databinding.ItemReadStyleBinding
 import io.legado.app.help.config.ReadBookConfig
 import io.legado.app.lib.dialogs.selector
 import io.legado.app.lib.theme.accentColor

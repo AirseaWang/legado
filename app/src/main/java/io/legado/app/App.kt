@@ -34,8 +34,6 @@ import io.legado.app.utils.ChineseUtils
 import io.legado.app.utils.LogUtils
 import io.legado.app.utils.defaultSharedPreferences
 import io.legado.app.utils.getPrefBoolean
-import io.legado.app2.BuildConfig
-import io.legado.app2.R
 import kotlinx.coroutines.launch
 import splitties.init.appCtx
 import splitties.systemservices.notificationManager

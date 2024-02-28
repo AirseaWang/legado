@@ -5,7 +5,7 @@ import android.os.Bundle
 import android.view.ViewGroup
 import io.legado.app.base.adapter.ItemViewHolder
 import io.legado.app.data.entities.Book
-import io.legado.app2.databinding.ItemBookshelfGridBinding
+import io.legado.app.databinding.ItemBookshelfGridBinding
 import io.legado.app.help.book.isLocal
 import io.legado.app.help.config.AppConfig
 import io.legado.app.utils.invisible

@@ -7,7 +7,7 @@ import android.view.animation.LinearInterpolator
 import android.widget.Scroller
 import androidx.annotation.CallSuper
 import com.google.android.material.snackbar.Snackbar
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.ui.book.read.page.PageView
 import io.legado.app.ui.book.read.page.ReadView
 import io.legado.app.ui.book.read.page.entities.PageDirection

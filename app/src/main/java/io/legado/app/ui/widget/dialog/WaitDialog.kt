@@ -2,7 +2,7 @@ package io.legado.app.ui.widget.dialog
 
 import android.app.Dialog
 import android.content.Context
-import io.legado.app2.databinding.DialogWaitBinding
+import io.legado.app.databinding.DialogWaitBinding
 
 
 @Suppress("unused")

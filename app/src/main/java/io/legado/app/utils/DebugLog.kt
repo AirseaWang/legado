@@ -1,7 +1,7 @@
 package io.legado.app.utils
 
 import android.util.Log
-import io.legado.app2.BuildConfig
+import io.legado.app.BuildConfig
 
 object DebugLog {
 

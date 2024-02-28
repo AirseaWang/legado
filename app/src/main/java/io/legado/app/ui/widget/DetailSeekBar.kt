@@ -6,8 +6,8 @@ import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.widget.FrameLayout
 import android.widget.SeekBar
-import io.legado.app2.R
-import io.legado.app2.databinding.ViewDetailSeekBarBinding
+import io.legado.app.R
+import io.legado.app.databinding.ViewDetailSeekBarBinding
 import io.legado.app.lib.theme.bottomBackground
 import io.legado.app.lib.theme.getPrimaryTextColor
 import io.legado.app.ui.widget.seekbar.SeekBarChangeListener

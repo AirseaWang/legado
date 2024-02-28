@@ -6,7 +6,7 @@ import android.graphics.Canvas
 import android.graphics.Path
 import android.util.AttributeSet
 import androidx.appcompat.widget.AppCompatImageView
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.utils.dpToPx
 import kotlin.math.max
 

@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import io.legado.app.base.adapter.ItemViewHolder
 import io.legado.app.base.adapter.RecyclerAdapter
 import io.legado.app.constant.AppLog
-import io.legado.app2.databinding.ItemFontBinding
+import io.legado.app.databinding.ItemFontBinding
 import io.legado.app.utils.*
 import java.io.File
 import java.net.URLDecoder

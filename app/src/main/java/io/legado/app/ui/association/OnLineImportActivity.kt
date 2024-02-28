@@ -2,9 +2,9 @@ package io.legado.app.ui.association
 
 import android.os.Bundle
 import androidx.activity.viewModels
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.base.VMBaseActivity
-import io.legado.app2.databinding.ActivityTranslucenceBinding
+import io.legado.app.databinding.ActivityTranslucenceBinding
 import io.legado.app.lib.dialogs.alert
 import io.legado.app.utils.showDialogFragment
 import io.legado.app.utils.viewbindingdelegate.viewBinding

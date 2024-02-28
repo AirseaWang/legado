@@ -35,7 +35,7 @@ import androidx.core.content.FileProvider
 import androidx.core.content.edit
 import androidx.preference.PreferenceManager
 import com.google.zxing.qrcode.decoder.ErrorCorrectionLevel
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.constant.AppConst
 import io.legado.app.help.IntentHelp
 import splitties.systemservices.clipboardManager

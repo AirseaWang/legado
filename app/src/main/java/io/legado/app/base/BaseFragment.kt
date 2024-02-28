@@ -11,7 +11,7 @@ import androidx.annotation.LayoutRes
 import androidx.appcompat.view.SupportMenuInflater
 import androidx.appcompat.widget.Toolbar
 import androidx.fragment.app.Fragment
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.ui.widget.TitleBar
 import io.legado.app.utils.applyTint
 

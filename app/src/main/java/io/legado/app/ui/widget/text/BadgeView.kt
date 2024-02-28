@@ -13,7 +13,7 @@ import android.view.ViewGroup
 import android.widget.FrameLayout
 import android.widget.FrameLayout.LayoutParams
 import androidx.appcompat.widget.AppCompatTextView
-import io.legado.app2.R
+import io.legado.app.R
 import io.legado.app.lib.theme.accentColor
 import io.legado.app.utils.ColorUtils
 import io.legado.app.utils.getCompatColor
